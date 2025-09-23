@@ -1,0 +1,85 @@
+leftnav:
+- identifier: 52f60bf1-810d-6af5-473c-4a026ad5a9ab
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e49c65c6-b24b-738f-e57a-baae88810e69
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: afb59ccb-e368-1531-bd71-47e1777cd41e
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 71392f23-035e-beac-4f1c-596c9792b3a0
+  name: Discussion Topics
+  pageRef: /pages/discussion-topics/
+  weight: 40
+- identifier: cea33bac-9107-1958-a4ea-6115f8628486
+  name: What Is the Nature of Culture and Language?
+  pageRef: /pages/discussion-topics/what-is-the-nature-of-culture-and-language
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 50
+- identifier: 1a8caeea-22ac-e295-2b9f-83fba2a71238
+  name: How Do You Define Your Cultural Self?
+  pageRef: /pages/discussion-topics/how-do-you-define-your-cultural-self
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 60
+- identifier: 2f13b08f-b565-4ac7-c9cc-4b73638dc4b8
+  name: Mainstream Anglo-American Communication Norms
+  pageRef: /pages/discussion-topics/mainstream-anglo-american-communication-norms
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 70
+- identifier: 8fc7ec4f-4eec-849d-d4a8-4216815403cf
+  name: Communicating in the US Education System
+  pageRef: /pages/discussion-topics/communicating-in-the-us-education-system
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 80
+- identifier: e629c4bb-d1ea-0fc4-5a3a-1d63b777cca1
+  name: Communication Norms in the Workplace
+  pageRef: /pages/discussion-topics/communication-norms-in-the-workplace
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 90
+- identifier: 37a74479-85a9-d02c-11ed-f7b9cef9fd7f
+  name: The Art of American Small Talk
+  pageRef: /pages/discussion-topics/the-art-of-american-small-talk
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 100
+- identifier: 11d6251b-624a-4038-a891-d1da87985562
+  name: Geography, History, and American Communication Patterns
+  pageRef: /pages/discussion-topics/geography-history-and-american-communication-patterns
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 110
+- identifier: 94aab812-35bd-90ac-2cab-70bf5fce88c4
+  name: The Role of Religion in American Communication Patterns
+  pageRef: /pages/discussion-topics/the-role-of-religion-in-american-communication-patterns
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 120
+- identifier: c8dab256-abf6-8ade-3f8d-b7063f6e8610
+  name: Language as a Reflection of Core American Values
+  pageRef: /pages/discussion-topics/language-as-a-reflection-of-core-american-values
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 130
+- identifier: 5837a4e0-3585-56f5-4de6-59bb96c46fc8
+  name: Communicating through the American Soundtrack
+  pageRef: /pages/discussion-topics/communicating-through-the-american-soundtrack
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 140
+- identifier: 44ae936b-d02d-95e4-30b7-23f3685852ae
+  name: The Language of Sports in American Culture
+  pageRef: /pages/discussion-topics/the-language-of-sports-in-american-culture
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 150
+- identifier: fc335064-20a0-0e50-fe79-65fed2c87aa7
+  name: 'Communicating in America: TV Shows as Cultural Vectors'
+  pageRef: /pages/discussion-topics/communicating-in-america-tv-shows-as-cultural-vectors
+  parent: 71392f23-035e-beac-4f1c-596c9792b3a0
+  weight: 160
+- identifier: ab84ba54-ab1b-7441-a1dc-b9b3a8402d27
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 170
+- identifier: 9d9d2ad3-70d4-bb41-9a3c-15cc57e32623
+  name: Additional Resources
+  pageRef: /pages/additional-resources
+  weight: 180
