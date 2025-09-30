@@ -21,7 +21,7 @@ In *21G.221 Communicating in American Culture(s)*, bilingual students examine ho
 
 ## Course Format, Etiquette, and Expectations
 
-As a CI-H ({{% resource_link "584c60ab-07d7-450f-8d62-0507f1c21cc7" "Communication Intensive in the Humanities, Arts, and Social Sciences" %}}) subject, 21G.221 provides many opportunities to engage with and create written, spoken, and visual texts. You can expect to write and revise a minimum of 5,000 words (a total of 20 *double-spaced* pages over 15 weeks) in a variety of genres.
+As a CI-H ([Communication Intensive in the Humanities, Arts, and Social Sciences](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)) subject, 21G.221 provides many opportunities to engage with and create written, spoken, and visual texts. You can expect to write and revise a minimum of 5,000 words (a total of 20 *double-spaced* pages over 15 weeks) in a variety of genres.
 
 The course is conducted as a workshop: it is highly interactive, with most class time devoted to discussion, exercises, peer review of texts, and short presentations. The assignments are designed to provide you the chance to delve more deeply into aspects of American cultures and communication patterns that **you** find particularly interesting.
 
@@ -48,9 +48,9 @@ Smart phones and laptops are **not** welcome except when their occasional use is
 
 ## Recommended Resources
 
-1. Lyall, Sarah. {{% resource_link "cc6fe172-ab44-425d-9e0a-6303d226c178" "*Abroad in America*" %}} (*New York Times* newsletter).
-2. {{% resource_link "761a7df3-bf59-4550-a513-c3037b75c84f" "*World Values Survey*" %}}.
-3. {{% resource_link "a75d8c44-bf73-4a12-93eb-dd4510330671" "*Pew Global Attitudes Project*" %}}*.*
+1. Lyall, Sarah. [*Abroad in America*](https://www.nytimes.com/2018/10/02/us/politics/abroad-in-america-politics.html) (*New York Times* newsletter).
+2. [*World Values Survey*](http://www.worldvaluessurvey.org/wvs.jsp).
+3. [*Pew Global Attitudes Project*](https://www.pewresearch.org/global/)*.*
 
 ## Attendance, Participation, and Grading
 

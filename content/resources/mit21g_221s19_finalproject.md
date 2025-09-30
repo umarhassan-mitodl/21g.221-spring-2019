@@ -4,6 +4,8 @@ description: ''
 file: /courses/21g-221-communicating-in-american-culture-s-spring-2019/f3d7eb0ee3eddd5b452fd4e14a4a33c5_MIT21G_221S19_finalproject.pdf
 file_size: 1075703
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

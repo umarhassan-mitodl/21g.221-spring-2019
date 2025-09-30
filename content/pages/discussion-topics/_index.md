@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Questions to guide reading and discussion of the texts in 21G.221.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Topics to Guide Reading and Discussion
