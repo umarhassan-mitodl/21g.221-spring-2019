@@ -21,7 +21,7 @@ In *21G.221 Communicating in American Culture(s)*, bilingual students examine ho
 
 ## Course Format, Etiquette, and Expectations
 
-As a CI-H ([Communication Intensive in the Humanities, Arts, and Social Sciences](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)) subject, 21G.221 provides many opportunities to engage with and create written, spoken, and visual texts. You can expect to write and revise a minimum of 5,000 words (a total of 20 *double-spaced* pages over 15 weeks) in a variety of genres.
+As a CI-H ({{% resource_link "22a4e827-c620-41f8-a02c-3dd860900a40" "Communication Intensive in the Humanities, Arts, and Social Sciences" %}}) subject, 21G.221 provides many opportunities to engage with and create written, spoken, and visual texts. You can expect to write and revise a minimum of 5,000 words (a total of 20 *double-spaced* pages over 15 weeks) in a variety of genres.
 
 The course is conducted as a workshop: it is highly interactive, with most class time devoted to discussion, exercises, peer review of texts, and short presentations. The assignments are designed to provide you the chance to delve more deeply into aspects of American cultures and communication patterns that **you** find particularly interesting.
 
@@ -48,9 +48,9 @@ Smart phones and laptops are **not** welcome except when their occasional use is
 
 ## Recommended Resources
 
-1. Lyall, Sarah. [*Abroad in America*](https://www.nytimes.com/2018/10/02/us/politics/abroad-in-america-politics.html) (*New York Times* newsletter).
-2. [*World Values Survey*](http://www.worldvaluessurvey.org/wvs.jsp).
-3. [*Pew Global Attitudes Project*](https://www.pewresearch.org/global/)*.*
+1. Lyall, Sarah. {{% resource_link "2b5a58ab-73eb-45e9-8467-f0a7de2e5872" "*Abroad in America*" %}} (*New York Times* newsletter).
+2. {{% resource_link "f83b5890-044f-460f-a8a4-a53a8c693747" "*World Values Survey*" %}}.
+3. {{% resource_link "1490e895-0732-4b28-a2a9-aa729e799646" "*Pew Global Attitudes Project*" %}}*.*
 
 ## Attendance, Participation, and Grading
 
